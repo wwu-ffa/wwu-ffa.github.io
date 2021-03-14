@@ -33,26 +33,26 @@ Through our research of these apps we discovered that there is not only a market
 *   Checkpoint 1
 
     Our primary focus for checkpoint 1 was to set up our development environment, mainly our database solution, and to develop our method of contribution. The end result is a basic login and registration activity that connects to firebase for authentication.
-    ![*Checkpoint 1*](images/image1.png)
+    ![*Checkpoint 1*](images/image1.png=30%)
 
 *   Checkpoint 2
 
     The next stage was to add functionality to the application in the form of a listing creation page and an organization registration page. This stage also dealt with asking for camera permissions and taking photos.
-    ![*Checkpoint 2*](images/image2.png)
+    ![*Checkpoint 2*](images/image2.png=30%)
 *   Checkpoint 3
 
     In checkpoint 3 we integrated location services as well as google maps using fragments, now we have our main activity. The only thing missing is our database connection.
-    ![*Checkpoint 3*](images/image3.png)
+    ![*Checkpoint 3*](images/image3.png =30%)
 
 *   Checkpoint 4
 
     Success! We now have a map that displays the location of items in relation to the user. Our page also allows a user to filter and examine listings. Organizations can now edit and modify listings that they created.
-    ![*Checkpoint 4*](images/image4.png)
+    ![*Checkpoint 4*](images/image4.png=30%)
 
 *   Checkpoint 5
 
     Checkpoint 5 is all about polishing existing features, this involved a custom icon and theme aswell as giving organizations more control over their content.
-    ![*Checkpoint 5*](images/image5.png)
+    ![*Checkpoint 5*](images/image5.png=30%)
 
 ## Final Project
 
