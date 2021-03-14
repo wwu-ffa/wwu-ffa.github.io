@@ -17,14 +17,14 @@ Our app uses the following features to provide an excellent experience to our no
 
 ## Market Analysis
 
-*   YourLocal https://yourlocal.org/
-*   FoodRescue https://foodrescue.us/
-*   Food Banks USA https://play.google.com/store/apps/details?id=com.free.food
-*   Food Finder https://play.google.com/store/apps/details?id=org.foodfinderga.foodfinder
-*   ShareTheMeal https://sharethemeal.org/en/index.html/li>
-*   FoodConnect https://www.foodconnectgroup.com/
-*   Got Food https://play.google.com/store/apps/details?id=com.us.gotfood&hl=en_US&gl=US
-*   Waste No Food https://play.google.com/store/apps/details?id=org.wastenofood.app&hl=en_US&gl=US
+*   [YourLocal](https://yourlocal.org/) 
+*   [FoodRescue](https://foodrescue.us/)
+*   [Food Banks USA](https://play.google.com/store/apps/details?id=com.free.food)
+*   [Food Finder](https://play.google.com/store/apps/details?id=org.foodfinderga.foodfinder)
+*   [ShareTheMeal](https://sharethemeal.org/en)
+*   [FoodConnect](https://www.foodconnectgroup.com/)
+*   [Got Food](https://play.google.com/store/apps/details?id=com.us.gotfood&hl=en_US&gl=US)
+*   [Waste No Food](https://play.google.com/store/apps/details?id=org.wastenofood.app&hl=en_US&gl=US)
 
 Through our research of these apps we discovered that there is not only a market for reducing waste but also for charities and other organizations to coordinate food rescues.
 
@@ -72,4 +72,4 @@ Through our research of these apps we discovered that there is not only a market
 
     Our app allows for email/password registration/login. Upon logging into the app, the user is presented with a feed of listings posted by organizations that have registered to become food donators. Users may sort the feed by date posted or by distance to them. They may also filter by distance to narrow down their results. Users may click on a listing to see more details about it. When looking at a particular listing, users can see the details of the organization that posted it by clicking on their name. In the profile page, a user may log out of the app or register as an organization themselves. Upon registering as an organization, the user’s profile page will change to include options where they can modify their organization’s details and manage their existing listings. Additionally, the create button will be accessible from the feed page, which users can use to create new listings.
 
-*   check us out here https://github.com/wwu-ffa/food-for-all
+*   check us out [here](https://github.com/wwu-ffa/food-for-all)
