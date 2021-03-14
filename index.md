@@ -1,8 +1,8 @@
 # Food For All
 
 *   Kieran Devany - devanyk2@wwu.edu
-*   Marri - jamal@marri.dev
-*   de Vera - deveraj@wwu.edu
+*   Jamal Marri - jamal@marri.dev
+*   Jorell de Vera - deveraj@wwu.edu
 *   Ayisha Olanrewaju - olanrea@wwu.edu
 
 ## CS 412, Winter 2021, Dr. Shameem Ahmed
