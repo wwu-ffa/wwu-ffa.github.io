@@ -1,11 +1,9 @@
-# Food For All
-
 *   Kieran Devany - devanyk2@wwu.edu
 *   Jamal Marri - jamal@marri.dev
 *   Jorell de Vera - deveraj@wwu.edu
 *   Ayisha Olanrewaju - olanrea@wwu.edu
 
-## CS 412, Winter 2021, Dr. Shameem Ahmed
+### CS 412, Winter 2021, Dr. Shameem Ahmed
 
 ## Purpose
 
@@ -13,7 +11,7 @@ The purpose of this app is to reduce food waste by connecting those with excess 
 
 ## Features
 
-Our app uses the following features to provide an excellent experience to our nonexistent customers. We use multiple screens, a menu, a firebase firestore, camera, GPS, google maps, and fragments.
+Our app uses the following features to provide an excellent experience to our nonexistent customers: multiple screens, a menu, a Firebase Firestore database, the system camera, GPS, Google Maps, and Fragments.
 
 ## Market Analysis
 
@@ -32,26 +30,26 @@ Through our research of these apps we discovered that there is not only a market
 
 *   Checkpoint 1
 
-    Our primary focus for checkpoint 1 was to set up our development environment, mainly our database solution, and to develop our method of contribution. The end result is a basic login and registration activity that connects to firebase for authentication.\
+    Our primary focus for checkpoint 1 was to set up our development environment, mainly our database solution, and to develop our method of contribution. The end result is basic login and registration activities that will connect to firebase for authentication.\
     ![*Checkpoint 1*](images/image1.png){:style="width:50%"}
 
 *   Checkpoint 2
 
-    The next stage was to add functionality to the application in the form of a listing creation page and an organization registration page. This stage also dealt with asking for camera permissions and taking photos.\
+    The next stage was to add functionality to the application in the form of a listing creation page and an organization registration page. This stage also dealt with asking for camera permissions and taking photos. We also connected our registration/login activities to Firebase Authentication.\
     ![*Checkpoint 2*](images/image2.png){:style="width:50%"}
 *   Checkpoint 3
 
-    In checkpoint 3 we integrated location services as well as google maps using fragments, now we have our main activity. The only thing missing is our database connection.\
+    We integrated Google Maps using a Fragment, which means we now have a key component of our listing feed activity. We have also integrated the Firebase Firestore database to add new listings.\
     ![*Checkpoint 3*](images/image3.png){:style="width:50%"}
 
 *   Checkpoint 4
 
-    Success! We now have a map that displays the location of items in relation to the user. Our page also allows a user to filter and examine listings. Organizations can now edit and modify listings that they created.\
+    We now have location services which integrate with the map to display the location of listings in relation to the user's current location. Our app additionally allows a user to filter and view specific listings. Users can now register as an organization and organizations can also now edit and modify listings that they have created.\
     ![*Checkpoint 4*](images/image4.png){:style="width:50%"}
 
 *   Checkpoint 5
 
-    Checkpoint 5 is all about polishing existing features, this involved a custom icon and theme aswell as giving organizations more control over their content.\
+    Organizations can now delete their listings and modify their details/image. Users can now sort listings in the feed by date posted and distance to their current location. All existing features were polished and made much more stable. All of the app's source code was refactored to be much more efficient. Additionally, the app theme has been customized and a logo has been produced for the launcher.\
     ![*Checkpoint 5*](images/image5.png){:style="width:50%"}
 
 ## Final Project
@@ -72,4 +70,4 @@ Through our research of these apps we discovered that there is not only a market
 
     Our app allows for email/password registration/login. Upon logging into the app, the user is presented with a feed of listings posted by organizations that have registered to become food donators. Users may sort the feed by date posted or by distance to them. They may also filter by distance to narrow down their results. Users may click on a listing to see more details about it. When looking at a particular listing, users can see the details of the organization that posted it by clicking on their name. In the profile page, a user may log out of the app or register as an organization themselves. Upon registering as an organization, the user’s profile page will change to include options where they can modify their organization’s details and manage their existing listings. Additionally, the create button will be accessible from the feed page, which users can use to create new listings.
 
-*   check us out [here](https://github.com/wwu-ffa/food-for-all)
+### Check us out [here](https://github.com/wwu-ffa/food-for-all)
