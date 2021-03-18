@@ -1,3 +1,7 @@
+# Food For All
+
+## Implemented by:
+
 *   Kieran Devany - devanyk2@wwu.edu
 *   Jamal Marri - jamal@marri.dev
 *   Jorell de Vera - deveraj@wwu.edu
