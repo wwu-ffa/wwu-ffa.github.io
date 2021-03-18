@@ -1,5 +1,3 @@
-# Food For All
-
 ## Implemented by:
 
 *   Kieran Devany - devanyk2@wwu.edu
