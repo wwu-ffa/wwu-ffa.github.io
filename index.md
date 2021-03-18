@@ -75,4 +75,8 @@ Through our research of these apps we discovered that there is not only a market
 
     Our app allows for email/password registration/login. Upon logging into the app, the user is presented with a feed of listings posted by organizations that have registered to become food donators. Users may sort the feed by date posted or by distance to them. They may also filter by distance to narrow down their results. Users may click on a listing to see more details about it. When looking at a particular listing, users can see the details of the organization that posted it by clicking on their name. In the profile page, a user may log out of the app or register as an organization themselves. Upon registering as an organization, the user’s profile page will change to include options where they can modify their organization’s details and manage their existing listings. Additionally, the create button will be accessible from the feed page, which users can use to create new listings.
 
-### Check us out [here](https://github.com/wwu-ffa/food-for-all)
+## Future Work
+For the future, this app could be extended to allow for more ways to sort/filter results, searching for results by keywords, some sort of integrated messaging service, and a way to ensure registered organizations are authentic. These features would make the app easier to use and maintain.
+
+### [Here's a video demo](https://youtu.be/4CEHwul1FqM)
+### [Check us out here](https://github.com/wwu-ffa/food-for-all)
