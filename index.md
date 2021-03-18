@@ -1,3 +1,6 @@
+---
+title: Food For All
+---
 ## CS 412, Winter 2021, Dr. Shameem Ahmed
 
 ## Implemented by:
